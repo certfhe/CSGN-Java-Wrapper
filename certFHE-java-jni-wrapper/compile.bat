@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-g++.exe -std=c++11 -I"%JAVA_HOME%\include" -I"%JAVA_HOME%\include\win32" -I"../certfhe/src" -m64 -shared -o certFHEjni.dll certFHE-java-jni-wrapper.cpp ../certfhe/src/SecretKey.cpp ../certfhe/src/Plaintext.cpp ../certfhe/src/Permutation.cpp ../certfhe/src/Helpers.cpp ../certfhe/src/Context.cpp ../certfhe/src/Ciphertext.cpp

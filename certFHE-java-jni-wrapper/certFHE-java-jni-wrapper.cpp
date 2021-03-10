@@ -14,7 +14,7 @@
 #define certFHE_Default_U 1
 
 
-#include "../certfhe-library/src/certFHE.h"
+#include "../certfhe/src/certFHE.h"
 
 using namespace certFHE;
 

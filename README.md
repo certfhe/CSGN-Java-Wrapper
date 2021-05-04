@@ -1,11 +1,11 @@
-# certFHE library - JAVA wrapper
+# CSGN library - JAVA wrapper
 
-certFHE is a [fully homomorphic encryption (FHE)](https://en.wikipedia.org/wiki/Homomorphic_encryption) library that implements the scheme presented [here](https://certfhewiki.certsign.ro/wiki/CertSGN).
+CSGN is a [homomorphic encryption (FHE)](https://en.wikipedia.org/wiki/Homomorphic_encryption) library that implements the scheme presented [here](https://certfhewiki.certsign.ro/wiki/CertSGN).
 
-The library is a wrapper over the C++ [implementation](https://github.com/certfhe/certfhe).
+The library is a wrapper over the C++ [implementation](https://github.com/certfhe/CSGN).
 
 
-## Building certFHE java wrapper
+## Building CSGN java wrapper
 
 ### Windows
 
